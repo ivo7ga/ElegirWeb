@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ElegirWeb</string>
+    <string name="url1">Escribe para cambiar URL 1</string>
+    <string name="url2">Escribe para cambiar URL 2</string>
+    <string name="elige_web_1">Elige web 1</string>
+    <string name="elige_web_2">Elige web 2</string>
+    <string name="web1">Web 1</string>
+    <string name="web2">Web 2</string>
+    <string name="eligeweb">Elige Web</string>
+    <string name="errorUrl">"Debe de introducir una URL válida\nEjemplo: https:www.as.com"</string>
+    <string name="valido1">Ha cambiado su URL de la pestaña 1</string>
+    <string name="valido2">Ha cambiado su URL de la pestaña 2</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElegirWeb</string>
+    <string name="url1">Write to change URL 1</string>
+    <string name="url2">Write to change URL 2</string>
+    <string name="elige_web_1">Choose web 1</string>
+    <string name="elige_web_2">Choose web 2</string>
+    <string name="web1">Web 1</string>
+    <string name="web2">Web 2</string>
+    <string name="eligeweb">Choose web</string>
+    <string name="errorUrl">You must enter a valid URL\nExample: https:www.as.com</string>
+    <string name="valido1">You have changed your tab 1 URL</string>
+    <string name="valido2">You have changed your tab 2 URL</string>
+</resources>
